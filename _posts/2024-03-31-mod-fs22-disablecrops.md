@@ -6,7 +6,7 @@ tags: [mody]
 pin: true
 ---
 
-![Desktop View](https://github.com/VidhosticeSDK/FS22_DisableCrops/blob/main/icon/icon_DisableCrops.png?raw=true){: width="256" height="256" .w-50 .right}
+![Desktop View](https://github.com/VidhosticeSDK/FS22_DisableCrops/blob/main/icon/icon_DisableCrops.png?raw=true){: width="256" height="256" .right}
 Tento mod vypne generování určených plodin z "DLC Premium Expansion" (červená řepa, mrkev, pastiňák) na nevlastněných polích. Je vhodný pro mapy, kde jsou příliš velká pole, nebo pole rozmanitých tvarů. Na vlastněná pole se omezení nevstahuje.
 
 Aktivace při:
