@@ -9,4 +9,5 @@
 
 # Ostatní
 
+- [markdown nápověda](./markdown_syntax.md)
 - [github mdbook nápověda](./github_mdbook.md)
