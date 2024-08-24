@@ -1,4 +1,4 @@
-{{#title Markdown syntaxe}}
+<img class="right" src="cat.png" alt="Kočka">
 
 
 *šikmé*
@@ -99,15 +99,15 @@ Or use 3 backticks
 ---
 
 
-<img class="right" src="cat.png" alt="The Rust logo">
-
-
 <div class="hidden">
 xxxxxxxxxx
 </div>
 
 
 <div class="warning">
+Warning<br>
+Warning<br>
+Warning<br>
 Warning
 </div>
 

@@ -1,6 +1,7 @@
 [book]
 authors = ["VidhosticeSDK"]
-language = "en"
+description = "Farming Simulator, Blender, Gimp"
+language = "cs"
 multilingual = false
 src = "src"
 title = "Vidhostice SDK"
