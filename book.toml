@@ -4,4 +4,7 @@ description = "Farming Simulator, Blender, Gimp"
 language = "cs"
 multilingual = false
 src = "src"
-title = "Vidhostice SDK"
+title = "JZD Vidhostice"
+
+[output.html]
+additional-css = ["custom.css"]

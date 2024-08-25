@@ -1,4 +1,9 @@
-[O nás](ABOUT.md)
+[O nás](README.md)
+
+<div class="hidden">
+[Galerie](galerie/Gallery.md)
+</div>
+
 
 ---
 

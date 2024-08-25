@@ -13,6 +13,7 @@ _šikmé_
 
 __Tučné__
 
+~strike~
 
 ~~přeškrtnutý text~~
 
@@ -113,3 +114,6 @@ Warning
 
 
 ---
+
+
+<https://www.iconfinder.com/>
