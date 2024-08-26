@@ -31,3 +31,7 @@ Snažíme se hrát co nejčastěji, ale i my máme své povinnosti. Snažíme se
 		https://github.com/VidhosticeSDK
 	</a>
 </div>
+
+---
+
+<iframe src="https://discord.com/widget?id=893510941780639764&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
