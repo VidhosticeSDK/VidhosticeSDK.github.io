@@ -1,13 +1,22 @@
-﻿img.top {
+﻿.clear {
+    clear: both;
+}
+
+.text-center {
+    text-align: center;
+}
+
+img.top {
     vertical-align: text-top;
 }
+
 img.bottom {
     vertical-align: text-bottom;
 }
+
 img.middle {
     vertical-align: middle;
 }
-
 
 div.gallery {
     display: grid;

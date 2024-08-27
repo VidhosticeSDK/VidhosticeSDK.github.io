@@ -1,8 +1,8 @@
 @echo off
 
-echo.
-echo Inicializuji mdBook...
-echo.
+rem echo.
+rem echo Inicializuji mdBook...
+rem echo.
 rem mdbook init VidhosticeSDK.github.io
 
 echo.
