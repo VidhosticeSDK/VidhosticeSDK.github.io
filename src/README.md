@@ -21,19 +21,19 @@ Snažíme se hrát co nejčastěji, ale i my máme své povinnosti. Snažíme se
 		<div class="text-center">
 			<a href="https://jzdvidhostice-cz.webnode.cz">
 				<img src="img/JZD_Vidhostice-icon.png" alt="JZD_Vidhostice">
-				<br>
+				<br/>
 				jzdvidhostice-cz.webnode.cz
 			</a>
 		</div>
 		<div class="text-center">
 			<a href="https://github.com/VidhosticeSDK">
 				<img style="padding: 30px 0 0 0;" src="img/VidhosticeSDK-icon.png" alt="VidhosticeSDK">
-				<br>
+				<br/>
 				github.com/VidhosticeSDK
 			</a>
 		</div>
 	</div>
-	<iframe class="right" src="https://discord.com/widget?id=893510941780639764&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+	<iframe class="right" src="https://discord.com/widget?id=893510941780639764&theme=light" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 	<div class="clear"></div>
 </div>
 

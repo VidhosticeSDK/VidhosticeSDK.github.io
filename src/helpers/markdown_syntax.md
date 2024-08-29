@@ -106,9 +106,9 @@ xxxxxxxxxx
 
 
 <div class="warning">
-Warning<br>
-Warning<br>
-Warning<br>
+Warning<br/>
+Warning<br/>
+Warning<br/>
 Warning
 </div>
 

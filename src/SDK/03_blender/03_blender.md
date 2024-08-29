@@ -1,0 +1,1 @@
+# nastavení Blenderu
