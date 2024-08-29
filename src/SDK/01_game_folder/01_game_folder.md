@@ -4,7 +4,7 @@ Nejprve musíme zkopírovat celou složku hry z místa kde máme hru nainstalova
 
 - GIANTS distribuce: `C:\Program Files (x86)\Farming Simulator 2022\`
 - Steam: `C:\Program Files (x86)\Steam\steamapps\common\Farming Simulator 22`
-- Steam: `C:\Program Files\Epic Games\Farming Simulator 22`
+- Epic: `C:\Program Files\Epic Games\Farming Simulator 22`
 
 ![Farming_Simulator_2022](Farming_Simulator_2022.png)
 
@@ -41,13 +41,11 @@ Samotný převod trvá poměrně dlouho a po převodu složka nabyde na \~56 GB 
 
 ---
 
-Vypadá to jako plýtvání místem na disku C, ale pokud si v této kopii něco rozbijete tak to nebude mít
+Vypadá to jako plýtvání místem na disku C:\\, ale pokud si v této kopii něco rozbijete, tak to nebude mít
 žádný negativní vliv na samotnou hru a také máte přístup ke všem obrázkům v mnohem lepším formátu PNG
 _(DDS kazí postupným přeukládáním kvalitu výsledného obrázku)_.
-
 
 ---
 
 Ke stažení:
-
 - [all-dds2png.zip](all-dds2png.zip)

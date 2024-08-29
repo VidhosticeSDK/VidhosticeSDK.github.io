@@ -1,1 +1,1 @@
-# nastavení Blenderu
+# Nastavení Blenderu
