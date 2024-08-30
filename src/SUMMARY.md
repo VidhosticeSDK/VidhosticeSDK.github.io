@@ -11,6 +11,7 @@
 	- [Kopie hry](SDK/01_game_folder/01_game_folder.md)
 	- [Nastavení GIANTS editoru](SDK/02_giants_editor/02_giants_editor.md)
 	- [Nastavení Blenderu](SDK/03_blender/03_blender.md)
+		- [I3D-Blender-Addon](SDK/03_blender/I3D-Blender-Addon/I3D-Blender-Addon.md)
 
 ---
 

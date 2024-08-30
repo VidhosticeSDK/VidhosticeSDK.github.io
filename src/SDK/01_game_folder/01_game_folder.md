@@ -28,7 +28,7 @@ dávkový soubor `all-dds2png.bat` obsahuje:
 texconv.exe -ft PNG -r:keep *.dds
 
 echo.
-echo HOTOVO
+echo HOTOVO / DONE
 echo.
 pause
 ```
@@ -43,7 +43,7 @@ Samotný převod trvá poměrně dlouho a po převodu složka nabyde na \~56 GB 
 
 Vypadá to jako plýtvání místem na disku C:\\, ale pokud si v této kopii něco rozbijete, tak to nebude mít
 žádný negativní vliv na samotnou hru a také máte přístup ke všem obrázkům v mnohem lepším formátu PNG
-_(DDS kazí postupným přeukládáním kvalitu výsledného obrázku)_.
+_(DDS zhoršuje postupným přeukládáním kvalitu výsledného obrázku)_.
 
 ---
 
