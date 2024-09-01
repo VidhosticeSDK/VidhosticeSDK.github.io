@@ -3,6 +3,7 @@
 ## Stažení doplňku
 
 - [I3D-Blender-Addon (LKAMinco)](https://github.com/LKAMinco/I3D-Blender-Addon/tree/develop) nebo [I3D-Blender-Addon (StjerneIdioten)](https://github.com/StjerneIdioten/I3D-Blender-Addon/tree/develop)
+  _(vývojová verze)_
 
   ![I3D-Blender-Addon_GitHub](I3D-Blender-Addon_GitHub.png)
   stáhne se soubor `I3D-Blender-Addon-develop.zip`
