@@ -33,7 +33,7 @@ Snažíme se hrát co nejčastěji, ale i my máme své povinnosti. Snažíme se
 			</a>
 		</div>
 	</div>
-	<iframe class="right" src="https://discord.com/widget?id=893510941780639764&theme=light" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+	<iframe class="right" src="https://discord.com/widget?id=893510941780639764&theme=light" width="300" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 	<div class="clear"></div>
 </div>
 
