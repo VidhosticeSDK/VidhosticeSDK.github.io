@@ -1,14 +1,21 @@
 # udim-repack
 
-<https://github.com/Paint-a-Farm/udim-repack>
+## Návod na použití
 
-<https://udim-repack-toolkit.paint-a-farm.com/>
+- [udim-repack-toolkit.paint-a-farm.com](https://udim-repack-toolkit.paint-a-farm.com/)
 
+## Stažení doplňku
+
+- [udim-repack](https://github.com/Paint-a-Farm/udim-repack)
+
+  ![udim-repack_GitHub](udim-repack_GitHub.png)
+  stáhnout a nainstalovat
 
 ---
 
+Aby šel doplněk nainstalovat do Blenderu verze 4.2+, musí v sobě obsahovat soubor `blender_manifest.toml`
 
-##### blender_manifest.toml _(přidat do doplňku pro verzi Blenderu 4.2+)_
+##### blender_manifest.toml
 
 ```toml
 schema_version = "1.0.0"

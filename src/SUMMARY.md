@@ -14,6 +14,7 @@
 		- [I3D-Blender-Addon](SDK/03_blender/I3D-Blender-Addon/I3D-Blender-Addon.md)
 		- [Giants-Material-Visualizer](SDK/03_blender/Giants-Material-Visualizer/Giants-Material-Visualizer.md)
 		- [I3D-Exporter-Additionals](SDK/03_blender/I3D-Exporter-Additionals/I3D-Exporter-Additionals.md)
+		- [TexTools-Blender](SDK/03_blender/TexTools-Blender/TexTools-Blender.md)
 		- [udim-repack](SDK/03_blender/udim-repack/udim-repack.md)
 		- [Flow-Map-Painter](SDK/03_blender/Flow-Map-Painter/Flow-Map-Painter.md)
 

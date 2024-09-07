@@ -8,11 +8,11 @@ Snažíme se hrát co nejčastěji, ale i my máme své povinnosti. Snažíme se
 
 <a href="https://discord.gg/J8Zdpy6b7G"><img class="middle" src="img/discord-icon.png" alt="Discord"> discord.gg/J8Zdpy6b7G</a>
 
-<a href="https://www.facebook.com/groups/299222317142993/"><img class="middle" src="img/facebook-icon.png" alt="Facebook"> www.facebook.com/groups/299222317142993/</a>
+<a href="https://www.facebook.com/groups/299222317142993/"><img class="middle" src="img/facebook-icon.png" alt="Facebook"> facebook.com</a>
 
-<a href="https://www.youtube.com/@JZD_Vidhostice"><img class="middle" src="img/youtube-icon.png" alt="YouTube"> www.youtube.com/@JZD_Vidhostice</a>
+<a href="https://www.youtube.com/@JZD_Vidhostice"><img class="middle" src="img/youtube-icon.png" alt="YouTube"> youtube.com</a>
 
-<a href="https://www.twitch.tv/jzd_vidhostice"><img class="middle" src="img/twitch-icon.png" alt="Twitch"> www.twitch.tv/jzd_vidhostice</a>
+<a href="https://www.twitch.tv/jzd_vidhostice"><img class="middle" src="img/twitch-icon.png" alt="Twitch"> twitch.tv</a>
 
 ---
 
