@@ -33,11 +33,11 @@ takto:
 
 ---
 
-Nyní můžete přepínat různé kolekce módů pomocí spustitelných souborů:
-<br/>`devel.cmd`
-<br/>`local.cmd`
-<br/>`server.cmd`
-<br/>`testing.cmd`
+**Nyní můžete přepínat různé kolekce módů pomocí spustitelných souborů:**
+<br/>`devel.cmd`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(pro vývoj)_
+<br/>`local.cmd`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(pro lokální hraní)_
+<br/>`server.cmd`&nbsp;&nbsp;&nbsp;&nbsp;_(pro dedikovaný server)_
+<br/>`testing.cmd`&nbsp;&nbsp;_(pro testování)_
 
 Můžete si vytvořit vlastní soubor `xxxx.cmd` přejmenováním nebo zkopírováním _(script podle svého jména vytvoří složku `mods-xxxx` a nalinkuje do ní složku mods)_.
 
