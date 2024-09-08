@@ -41,7 +41,7 @@ _(v tuto chvíli doplněk nepodporuje Blender verze 4 a vyšší)_
 
 ![Exporter_Plugins](Exporter_Plugins.png)
 <br/>Stačí ho rozbalit do dočasné složky a zkopírovat do:
-<br/>`c:\Users\....\AppData\Roaming\Blender Foundation\Blender\4.1\scripts\addons\i3dio\`
+<br/>`C:\Users\....\AppData\Roaming\Blender Foundation\Blender\4.1\scripts\addons\i3dio\`
 
 ---
 
