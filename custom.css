@@ -2,7 +2,7 @@
     clear: both;
 }
 
-.text-center {
+.text_center {
     text-align: center;
 }
 
@@ -17,6 +17,33 @@ img.bottom {
 img.middle {
     vertical-align: middle;
 }
+
+
+.mrizka {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.mrizka div {
+    display: flex;
+    align-items: center;
+}
+
+.mrizka div.uprostred {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mrizka div a img {
+    vertical-align: middle;
+    padding: 0 10px;
+}
+
 
 div.gallery {
     display: grid;

@@ -13,7 +13,3 @@ Je potřeba mít:
   <br/>_"Scale" nastavené na 1 exportuje model 1:1 (v metrech)._
 
 - **Installation Path: `C:/FS22/FS22_Data/`**
-
-
-
-
