@@ -1,10 +1,10 @@
-# Flow-Map-Painter
+## Flow-Map-Painter
 
-## Návod na použití
+### Návod na použití
 
 - [clemensbeute.gumroad.com/l/heZDT](https://clemensbeute.gumroad.com/l/heZDT)
 
-## Stažení doplňku
+### Stažení doplňku
 
 - [flow_map_painter](https://github.com/ClemensBeute/flow_map_painter)
 

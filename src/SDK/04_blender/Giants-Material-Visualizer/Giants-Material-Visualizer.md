@@ -1,6 +1,6 @@
-# Giants-Material-Visualizer
+## Giants-Material-Visualizer
 
-## Stažení doplňku
+### Stažení doplňku
 
 - [Giants-Material-Visualizer](https://github.com/LKAMinco/Giants-Material-Visualizer)
 

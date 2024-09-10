@@ -1,4 +1,4 @@
-<img class="right" src="cat.png" alt="Kočka">
+<img class="right" src="cat.png" alt="Kočka" />
 
 
 *šikmé*

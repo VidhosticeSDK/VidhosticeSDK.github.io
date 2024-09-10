@@ -1,6 +1,6 @@
-# I3D-Blender-Addon
+## I3D-Blender-Addon
 
-## Stažení doplňku
+### Stažení doplňku
 
 - [I3D-Blender-Addon (LKAMinco)](https://github.com/LKAMinco/I3D-Blender-Addon/tree/develop) nebo [I3D-Blender-Addon (StjerneIdioten)](https://github.com/StjerneIdioten/I3D-Blender-Addon/tree/develop)
   _(vývojová verze)_
@@ -14,7 +14,7 @@
   ![I3D-Blender-Addon_i3dio_develop](I3D-Blender-Addon_i3dio_develop.png)
 
 
-## Nastavení doplňku
+### Nastavení doplňku
 
 1. ![Blender_Preferences_0](Blender_Preferences_0.png)
 

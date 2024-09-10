@@ -1,6 +1,6 @@
-# TexTools-Blender
+## TexTools-Blender
 
-## Stažení doplňku
+### Stažení doplňku
 
 - [TexTools-Blender](https://github.com/franMarz/TexTools-Blender)
 

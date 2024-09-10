@@ -1,4 +1,4 @@
-# [DisableCrops](https://github.com/VidhosticeSDK/FS22_DisableCrops)
+## [DisableCrops](https://github.com/VidhosticeSDK/FS22_DisableCrops)
 
 <img class="right" style="padding: 0 0 5px 5px;" src="icon_DisableCrops.png" alt="DisableCrops">
 

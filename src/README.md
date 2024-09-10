@@ -1,8 +1,15 @@
-# O nás
+<a href="https://www.farming-simulator.com/mods.php?org_id=112750"><img class="right" src="img/JZD_Vidhostice_TEAM.jpg" title="Modhub FS22" /></a>
+
+## O nás
 
 Jsme parta nadšenců do Farming simulátoru, kteří se rádi sejdou u hry, kde si pokecají a zažijí spoustu srandy.
 
-Snažíme se hrát co nejčastěji, ale i my máme své povinnosti. Snažíme se hrát co nejreálněji a dodržovat nějaká pravidla.
+Snažíme se hrát co nejreálněji a dodržovat nějaká pravidla.
+
+---
+
+**Vidhostice SDK:**
+je soupis našich znalostí získaných při tvorbě módů a map.
 
 ---
 
