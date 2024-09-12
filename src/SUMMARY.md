@@ -21,6 +21,12 @@
 
 ---
 
+- [Umístitelné objekty](SDK_placeables/SDK_placeables.md)
+	- [placeableTypes](SDK_placeables/placeableTypes.md)
+	- [placeableSpecializations](SDK_placeables/placeableSpecializations.md)
+
+---
+
 - [Módy FS22]()
 	- [DisableCrops](FS22_mods/DisableCrops/disablecrops.md)
 
