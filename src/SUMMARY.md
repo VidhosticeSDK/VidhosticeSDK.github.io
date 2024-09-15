@@ -18,6 +18,7 @@
 		- [udim-repack](SDK/04_blender/udim-repack/udim-repack.md)
 		- [Flow-Map-Painter](SDK/04_blender/Flow-Map-Painter/Flow-Map-Painter.md)
 	- [Přepínání složek s módy](SDK/05_switch_moddir/05_switch_moddir.md)
+		- [Automatická synchronizace](SDK/05_switch_moddir/SynchronizeFTP2local/SynchronizeFTP2local.md)
 
 ---
 

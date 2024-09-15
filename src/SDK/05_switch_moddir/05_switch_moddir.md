@@ -36,9 +36,19 @@ Složka `mods` je pouze "junction link" neboli odkaz na složku kterou jste zvol
 ##### devel.cmd
 
 ```bash
+@echo off
+echo FS22 moddir: "%~n0"
+
 rmdir C:\FS22\mods
+echo.
 mkdir "C:\FS22\mods-%~n0"
+type nul > "C:\FS22\mods-%~n0\_%~n0_"
+echo.
 mklink /j C:\FS22\mods "C:\FS22\mods-%~n0"
+echo.
+
+echo HOTOVO / DONE
+REM pause
 ```
 
 ---
