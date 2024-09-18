@@ -1,4 +1,4 @@
-<a href="https://www.farming-simulator.com/mods.php?org_id=112750"><img class="right" src="img/JZD_Vidhostice_TEAM.jpg" title="Modhub FS22" /></a>
+<a href="https://www.farming-simulator.com/mods.php?org_id=112750"><img class="ikona" src="img/JZD_Vidhostice_TEAM.png" title="Modhub FS22" /></a>
 
 ## O nás
 

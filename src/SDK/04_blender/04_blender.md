@@ -1,3 +1,5 @@
+<img class="ikona" src="../../img/Blender-icon.png" />
+
 ## Nastavení Blenderu
 
 #### [Blender:](https://download.blender.org/release/Blender4.1/)

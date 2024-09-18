@@ -1,3 +1,5 @@
+<img class="ikona" src="../img/VidhosticeSDK-icon.png" />
+
 ## Vidhostice SDK
 
 Pro správnou funkci našich 'postupů', 'návodů', 'scriptů' a 'stáhnutelných souborů' bude potřeba nejprve nachystat:

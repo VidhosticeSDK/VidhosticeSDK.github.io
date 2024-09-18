@@ -1,4 +1,9 @@
-﻿.clear {
+﻿.ikona {
+    float: right;
+    padding: 0 0 10px 10px;
+}
+
+.clear {
     clear: both;
 }
 

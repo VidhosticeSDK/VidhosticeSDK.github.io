@@ -1,3 +1,5 @@
+<img class="ikona" src="../../img/GE-icon.png" />
+
 ## Nastavení GIANTS editoru
 
 V menu: File > Preferenses...

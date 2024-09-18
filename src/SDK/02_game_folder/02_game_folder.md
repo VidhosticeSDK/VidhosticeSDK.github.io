@@ -1,3 +1,5 @@
+<img class="ikona" src="../../img/FS22-icon.png" />
+
 ## Kopie hry
 
 Nejprve musíme zkopírovat celou složku hry z místa kde máme hru nainstalovanou:
