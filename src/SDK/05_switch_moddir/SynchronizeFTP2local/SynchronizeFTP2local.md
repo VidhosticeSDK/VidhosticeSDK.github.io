@@ -21,7 +21,9 @@ echo FS22 moddir: "%~n0"
 rmdir C:\FS22\mods
 echo.
 mkdir "C:\FS22\mods-%~n0"
-type nul > "C:\FS22\mods-%~n0\_%~n0_"
+if not exist "mods-%~n0\_%~n0_" (
+    type nul > "mods-%~n0\_%~n0_"
+)
 echo.
 mklink /j C:\FS22\mods "C:\FS22\mods-%~n0"
 echo.
