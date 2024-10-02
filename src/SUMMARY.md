@@ -36,5 +36,6 @@
 - [Nápověda]()
 	- [modhub JZD](helpers/modhub_jzd/orgLogo.md)
 	- [posters](helpers/posters/posters.md)
+	- [fonts](helpers/fonts/fonts.md)
 	- [markdown syntax](helpers/markdown_syntax.md)
 	- [github mdbook](helpers/github_mdbook.md)
