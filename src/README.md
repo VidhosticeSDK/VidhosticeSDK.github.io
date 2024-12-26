@@ -1,5 +1,17 @@
 <a href="https://www.farming-simulator.com/mods.php?org_id=112750"><img class="ikona" src="img/JZD_Vidhostice_TEAM.png" title="Modhub FS22" /></a>
 
+# FS25
+
+Prázdná mapa pro **FS25** ke stažení zde: [FS25_In_Bohemia](https://github.com/VidhosticeSDK/VidhosticeSDK/releases)
+
+---
+
+## FS22
+
+Tyto stránky vznikali pro Farming Simulátor 22.
+
+Až bude trochu času a chuti tak je budu aktualizovat pro FS25 ;-)
+
 ## O nás
 
 Jsme parta nadšenců do Farming simulátoru, kteří se rádi sejdou u hry, kde si pokecají a zažijí spoustu srandy.
