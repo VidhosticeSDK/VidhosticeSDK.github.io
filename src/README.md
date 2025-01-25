@@ -2,7 +2,7 @@
 
 # FS25
 
-Prázdná mapa pro **FS25** ke stažení zde: [FS25_In_Bohemia](https://github.com/VidhosticeSDK/VidhosticeSDK/releases)
+Prázdná mapa pro **FS25** ke stažení zde: [FS25_In_Bohemia](https://github.com/VidhosticeSDK/VidhosticeSDK/releases) (v1.0.0.2)
 
 ---
 
